@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 "This some other text"
+
+>>>>>>> 9c181d84fc5a942a3569c825a36cd1cda9db74b9
